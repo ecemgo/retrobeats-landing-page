@@ -1,4 +1,4 @@
-## <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/a218e7a7-ef22-431f-b544-d86a73567ef4" title="retrobeats" alt="retrobeats" width="50" height="50"/> Retrobeats Landing Page
+## <img src="https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/a218e7a7-ef22-431f-b544-d86a73567ef4" title="retrobeats" alt="retrobeats" width="30" height="30"/> Retrobeats Landing Page
 
 #### The solutions with these tools:
 
