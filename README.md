@@ -14,7 +14,7 @@
 
 ### Screenshot
 
-[https://github.com/ecemgo/mini-samples-great-tricks/assets/13468728/439e63e3-bb4d-4cd1-b5e3-8bd8a207733c](https://github.com/ecemgo/octoberfest-landing-page/assets/13468728/11d04df2-f465-4fcf-b1a9-df31487d32a4)
+https://github.com/ecemgo/retrobeats-landing-page/assets/13468728/651d0e1e-dc55-43d2-8f3e-3bf0ad05e378
 
 ### Useful Resources
 
